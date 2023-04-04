@@ -4,4 +4,4 @@
 | Task | Link |
 | --- | ----------- |
 | Class 01| [Reading ](./Reading.md) |
-| SQL | [SQL_img ](./sql.png) |
+| SQL | [SQL_img ](./sql.md) |
