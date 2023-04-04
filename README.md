@@ -3,5 +3,6 @@
 
 | Task | Link |
 | --- | ----------- |
-| Class 01| [Reading ](./Reading.md) |
 | SQL | [SQL_img ](./sql.md) |
+| Class 01| [Reading ](./Class1.md) |
+| Class 02| [Reading ](./Class2.md) |
