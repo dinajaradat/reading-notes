@@ -1,0 +1,2 @@
+# The Command Line
+### command line is a text-based interface that allows you to interact with your computer's operating system using commands. It works by interpreting the commands you type in and executing the corresponding actions
