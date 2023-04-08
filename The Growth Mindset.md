@@ -1,0 +1,4 @@
+ ### the importance of deliberate practice in improving hard technical skills for software developers. It emphasizes the need to push oneself outside of their comfort zone, repeat challenges often, receive feedback, set good goals, and engage in mentally demanding and difficult activities. The article suggests various resources, such as the Matasano Crypto Challenges and Rosalind, to help developers learn new skills and apply them to real-world problems. The article encourages developers to seek out challenges that will teach them something new and expand their knowledge beyond what they are comfortable with.
+ 
+ ## your emotional intelligence
+ ###  measure various aspects of emotional intelligence, including self-awareness, self-regulation, social awareness, empathy, and relationship management. One potential insight is that the person may benefit from further developing their perspective-taking skills to better understand others' points of view.
