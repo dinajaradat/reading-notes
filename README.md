@@ -8,6 +8,7 @@
 | Class 02| [Reading ](./Class2.md) |
 | Class 03| [Reading ](./Class3.md) |
 | Class 04| [Reading ](./Class4.md) |
+| Class 05| [Reading ](./Class5.md) |
 | Class 06| [Reading ](./Class6.md) |
 | Class 07| [Reading ](./Class7.md) |
 | Prep| [Data Structures and Algorithms](./Data%20Structures%20and%20Algorithms.md) |
