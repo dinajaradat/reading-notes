@@ -13,3 +13,5 @@
        from statistics import median
        data = [20.7, float('NaN'),19.2, 18.3, float('NaN'), 14.4]
        median(data)   # 16.351
+
+## dina
