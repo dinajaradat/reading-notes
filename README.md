@@ -15,6 +15,7 @@
 | Class 09| [Reading ](./Class9.md) |
 | Class 11| [Reading ](./Class11.md) |
 | Class 12| [Reading ](./Class12.md) |
+| Class 13| [Reading ](./Class13.md) |
 | Stacks & Queues| [Reading ](./Stacks%20%26%20Queues.md) |
 | Prep| [Data Structures and Algorithms](./Data%20Structures%20and%20Algorithms.md) |
 | Prep| [Engineering Readings](./Engineering%20Readings.md) |
