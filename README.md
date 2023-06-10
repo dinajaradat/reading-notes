@@ -21,7 +21,7 @@
 | Class 16| [Reading ](./Class16.md) |
 | Class 17| [Reading ](./Class17.md) |
 | Class 18| [Reading ](./Class18.md) |
-| Class 19| [Reading ](./Class26.md) |
+| Class 26| [Reading ](./Class26.md) |
 | Stacks & Queues| [Reading ](./Stacks%20%26%20Queues.md) |
 | Prep| [Data Structures and Algorithms](./Data%20Structures%20and%20Algorithms.md) |
 | Prep| [Engineering Readings](./Engineering%20Readings.md) |
