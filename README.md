@@ -28,6 +28,7 @@
 | Class 30| [Reading ](./Class30.md) |
 | Class 31| [Reading ](./Class31.md) |
 | Class 32| [Reading ](./Class32.md) |
+| Class 33| [Reading ](./Class33.md) |
 | Stacks & Queues| [Reading ](./Stacks%20%26%20Queues.md) |
 | Prep| [Data Structures and Algorithms](./Data%20Structures%20and%20Algorithms.md) |
 | Prep| [Engineering Readings](./Engineering%20Readings.md) |
