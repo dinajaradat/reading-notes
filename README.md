@@ -35,6 +35,7 @@
 | Class 37| [Reading ](./Class37.md) |
 | Class 38| [Reading ](./Class38.md) |
 | Class 39| [Reading ](./Class39.md) |
+| Class 41| [Reading ](./Class41.md) |
 | Stacks & Queues| [Reading ](./Stacks%20%26%20Queues.md) |
 | Prep| [Data Structures and Algorithms](./Data%20Structures%20and%20Algorithms.md) |
 | Prep| [Engineering Readings](./Engineering%20Readings.md) |
